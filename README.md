@@ -37,6 +37,8 @@ pip install -r requirements.txt
 1. 在项目目录下运行以下命令启动应用
 ```bash
 streamlit run dork_king.py
+或者
+python -m streamlit run dork_king.py
 ```
 2. 在浏览器中打开显示的本地URL（通常是 http://localhost:8501）
 3. 在侧边栏输入目标域名（例如：example.com）
